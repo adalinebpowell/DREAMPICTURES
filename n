@@ -1,0 +1,190 @@
+Organization: ORG 
+
+Application notes: 
+
+	Mission: 
+
+a 
+
+Funds use: 
+
+a 
+
+ 
+
+Challenges 
+
+a 
+
+ 
+
+990 Notes: 
+
+ 
+
+General Search Notes: 
+
+ 
+
+Notes: 
+
+ 
+
+Adaline Thoughts: 
+
+ 
+
+Category 
+
+Prompt 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+1. Mission Alignment (1-5) 
+
+How directly and credibly does the organization address racial inequities or systemic barriers? 
+
+Limited connection to racial equity or unclear impact. 
+
+Addresses equity issues indirectly, with limited evidence of impact. 
+
+Demonstrates a clear commitment to racial equity through programs or services. 
+
+Programs are intentionally designed to address racial inequities and show meaningful impact. 
+
+Advancing racial equity is foundational to the organization’s mission, strategy, and community engagement 
+
+2. Grant Follow-Through (1-5) 
+
+Did the organization work towards objectives that were expected based on previous work and conversations? Did the organization meet expectations, adapt appropriately to challenges, and provide a reasonable explanation for any significant changes from expectations? 
+
+Substantially failed to meet stated objectives and/or provides little explanation for unmet goals or significant deviations from the proposed work. 
+
+Achieved some planned activities, but key objectives were not met and/or explanations for shortfalls are limited. 
+
+Completed most planned activities and/or made reasonable progress toward stated objectives, with adequate explanation for any changes or challenges. 
+
+Successfully completed most or all planned activities and met expectations, with clear communication regarding any adjustments to the original plan. 
+
+Fully achieved or exceeded stated objectives and expectations, demonstrating strong execution, thoughtful adaptation when needed, and clear accountability for results. 
+
+3. Community Need (1-5) 
+
+Does the organization address an important need or gap within its community or field? 
+
+Work substantially overlaps with existing efforts and fills no clear gap. 
+
+Provides some value, but its role or distinctiveness is limited. 
+
+Addresses a meaningful community need and contributes positively within its field. 
+
+Fills a significant gap or serves populations that are otherwise underserved. 
+
+Plays a critical role in its community or field and provides services, advocacy, or leadership that would be difficult to replace. 
+
+4. Outcomes Measurement & Effectiveness (1-5) 
+
+Does the organization track outcomes and demonstrate evidence of impact? 
+
+Little or no outcome tracking and/or limited evidence of effectiveness. 
+
+Some metrics exist, but evaluation methods are limited and/or evidence of impact is weak or unclear. 
+
+Tracks relevant outcomes and/or demonstrates reasonable evidence of effectiveness, though gaps remain in measurement or results. 
+
+Uses clear metrics and demonstrates measurable progress toward goals and/or strong evidence of effectiveness. 
+
+Maintains a robust evaluation system and/or consistently demonstrates meaningful impact, using results to inform organizational learning and improvement. 
+
+5. Operational Capacity & Stability (1-5) 
+
+Does the organization have the internal capacity, leadership, and systems to reliably deliver its work? 
+
+Significant concerns related to leadership, operations, or financial stability. 
+
+Some operational or financial challenges that may limit effectiveness. 
+
+Demonstrates generally stable operations 
+
+Shows strong leadership and thoughtful organizational planning. 
+
+Demonstrates exceptional organizational stability, transparency, and long-term stewardship capacity. 
+
+6. Financial Transparency & Revenue Diversification (1-5) 
+
+Does the organization appear capable of responsibly managing funding and sustaining its work? Does the organization provide accessible and clear financial reports? Does the organization have diverse funding streams, or are they reliant on a few sources? 
+
+Limited financial transparency and/or high dependence on a single funding source. 
+
+Basic financial reporting exists, but transparency is limited and/or funding sources are highly concentrated. 
+
+Adequate financial transparency and/or some diversification of funding sources, though notable gaps remain in one or both areas. 
+
+Clear and accessible financial reporting and/or a reasonably diversified funding base with manageable concentration risk. 
+
+Highly transparent financial practices and/or strong, resilient funding diversification with low concentration risk. 
+
+7. Scalability & Broader Influence (1-5) 
+
+Does the organization demonstrate both meaningful potential for expanded impact and a distinctive approach that could influence or be replicated in other contexts? 
+
+Limited or no scalability. Model is highly localized with little evidence it can be replicated or adapted elsewhere 
+
+Some promising elements, but replication or broader influence is unclear or significantly constrained 
+
+A solid, well-defined model with reasonable potential for adaptation or replication in similar contexts 
+
+Strong model with clear pathways for scaling, replication, or influence beyond the immediate organization 
+
+Highly distinctive model with demonstrated or strong potential for broad replication, scaling, or systems-level influence 
+
+8. Funding Usefulness (1-5) 
+
+Would funding from Argosy meaningfully strengthen, sustain, or expand the organization’s work? 
+
+Funding would likely have limited effect or unclear purpose. 
+
+Potential benefit exists, but plans or opportunities are not well defined. 
+
+Funding would provide meaningful support for ongoing work or capacity. 
+
+Funding would clearly strengthen programs, reach, or organizational effectiveness. 
+
+Funding would create a significant opportunity for growth, sustainability, or expanded community impact. 
+
+9. Conflict of Interest (1-5) 
+
+Are there any indications of relationships or connections within Argosy and the Advisory Committee that could affect objective evaluation? 
+
+Significant conflicts or relationships that raise serious concerns regarding impartiality. 
+
+Notable relationships that may create perceived bias or require substantial disclosure. 
+
+Some connections exist, but concerns appear manageable and transparent. 
+
+Minor or limited relationships with little apparent influence on objectivity. 
+
+No notable conflicts or concerns regarding independence or impartiality. 
+
+10. Nonpartisanship and Secular Orientation (1-5) 
+
+Does the organization primarily deliver programs and services in a way that is nonpartisan and focused on direct impact rather than ideological, political, or religious advancement? 
+
+Organization is primarily driven by religious mission or explicit political advocacy that shapes most programs and services. 
+
+Strong religious or political framing that significantly influences programming or participation. 
+
+Mixed model: delivers services but with noticeable religious, ideological, or advocacy-driven components. 
+
+Primarily focused on service delivery with limited religious or political framing in programming. 
+
+Clearly secular and nonpartisan with minimal or no religious or ideological framing in programs. 
+
